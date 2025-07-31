@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Omar Shousha</h1>
 <h3 align="center">A frontend developer focused on crafting clean, responsive interfaces.</h3>
 
+- 🔭 I’m currently working on **Vanilla JavaScript projects**
+
 - 🌱 I’m currently learning **Jonas Schmedtmann's Javascript course**
 
 - 👯 I’m looking to collaborate on **html-css landing-page pojects**
